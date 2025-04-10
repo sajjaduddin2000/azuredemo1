@@ -1,17 +1,13 @@
+•	Git clone – to create a clone
+•	Git init- initialize empty git repository 
+•	Touch file1- create a file named file1
+•	vi file1- opens a basic editor
+•	git status- 	gives the status of the file 
+•	git add . – get the files to staging area
+•	Git commit -m – to provide message 
+•	Git push – push whatever present in local repository to central repository
+•	Git log
+•	Git pull-gets the file from the recent deployment
 
 
-
-
-ZZ
-
-
-
-
-
-
-
-
-
-
-m,mm
-
+git config --global user.name "Your Name" git config --global user.email "your.email@example.com"
