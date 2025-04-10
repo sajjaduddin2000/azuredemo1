@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 •	Git clone – to create a clone
 •	Git init- initialize empty git repository 
 •	Touch file1- create a file named file1
@@ -11,3 +12,6 @@
 
 
 git config --global user.name "Your Name" git config --global user.email "your.email@example.com"
+=======
+sajjad is the worst abdul kareem is the best;
+>>>>>>> b6a1c2a58b1760afa83533c8dea4a339aa6853c0
